@@ -1,0 +1,27 @@
+{
+  "name": "awesome-rainbow-logger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mintychan/awesome-rainbow-logger.git"
+  },
+  "keywords": [
+    "tea",
+    "logger"
+  ],
+  "author": "mintychan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mintychan/awesome-rainbow-logger/issues"
+  },
+  "homepage": "https://github.com/mintychan/awesome-rainbow-logger#readme",
+  "dependencies": {
+    "shellfuel": "^1.0.6",
+    "tea-next-app": "^0.1.1"
+  }
+}
